@@ -1,4 +1,5 @@
 #Proposal
+
 ###Introduction
 The 2021 Formula One season was one of the most exciting seasons in its history. Two rivals; Lewis Hamilton, and Max Verstappen, were neck and neck all season, with Verstappen eventually clinching the World Driver’s Championship. However, the driver that wins the championship is not always the best driver that season.
  
